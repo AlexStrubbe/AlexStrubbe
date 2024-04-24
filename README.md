@@ -4,7 +4,13 @@ Hi 👋 My name is Alex J Strubbe
 Computer Engineering Undergrad
 ------------------------------
 
-Welcome to my GitHub portfolio! I'm a dedicated Computer Science and Engineering student at the University of Puerto Rico, Mayagüez, currently in my 6th year and set to graduate in December 2025. Here, you'll find a curated collection of both personal projects and coursework spanning my academic journey. I'm passionate about leveraging technology to solve real-world problems and am actively seeking opportunities for internships and similar roles to further develop my skills and contribute to impactful projects. If you find any of my code useful or have questions about any project, feel free to reference my work or reach out to me via email or Discord direct message. I'm always eager to connect and collaborate!
+👋 Welcome to my GitHub portfolio! I'm a dedicated Computer Science and Engineering student at the University of Puerto Rico, Mayagüez, currently in my 6th year and set to graduate in December 2025. Here, you'll find a curated collection of both personal projects and coursework spanning my academic journey. Passionate about leveraging technology to solve real-world problems, I specialize in Arduino and microprocessors, with a versatile skill set in C++ and Python programming languages.
+
+💡 I'm enthusiastic about exploring the intersection of hardware and software, whether it's crafting elegant algorithms, building robust software solutions, or tinkering with 3D printing.
+
+🚀 I'm actively seeking opportunities for internships and similar roles to further develop my skills and contribute to impactful projects.
+
+🔗 If you find any of my code useful or have questions about any project, feel free to reference my work or reach out to me via email or Discord direct message. I'm always eager to connect and collaborate! Let's build something amazing together!
 
 *   🌍  I'm based in Puerto Rico 🇵🇷
 *   ✉️  You can contact me at [alex.strubbe@upr.edu](mailto:alex.strubbe@upr.edu)
@@ -40,10 +46,10 @@ Welcome to my GitHub portfolio! I'm a dedicated Computer Science and Engineering
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.threads.net/@WushiTV" target="_blank" rel="noreferrer">
+                      <a href="[https://www.threads.net/@WushiTV](https://twitter.com/WushiTV)" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
                     </a></p>
