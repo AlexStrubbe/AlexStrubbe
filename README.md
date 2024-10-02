@@ -4,7 +4,7 @@ Hi 👋 My name is Alex J Strubbe
 Computer Engineering Undergrad
 ------------------------------
 
-👋 Welcome to my GitHub portfolio! I'm a dedicated Computer Science and Engineering student at the University of Puerto Rico, Mayagüez, currently in my 6th year and set to graduate in December 2025. Here, you'll find a curated collection of both personal projects and coursework spanning my academic journey. Passionate about leveraging technology to solve real-world problems, I specialize in Arduino and microprocessors, with a versatile skill set in C++ and Python programming languages.
+👋 Welcome to my GitHub portfolio! I'm a dedicated Computer Science and Engineering student at the University of Puerto Rico, Mayagüez, currently in my 7th year and set to graduate in December 2025. Here, you'll find a curated collection of both personal projects and coursework spanning my academic journey. Passionate about leveraging technology to solve real-world problems, I specialize in Arduino and microprocessors, with a versatile skill set in C++ and Python programming languages.
 
 💡 I'm enthusiastic about exploring the intersection of hardware and software, whether it's crafting elegant algorithms, building robust software solutions, or tinkering with 3D printing.
 
