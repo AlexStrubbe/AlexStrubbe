@@ -84,7 +84,5 @@ OS:
                       <a href="https://www.threads.net/@WushiTV" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-
-                    
-<a href="https://github.com/AlexStrubbe/AlexStrubbe/files/15102609/ALEX_STRUBBE_RESUME.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/AlexStrubbe/AlexStrubbe/assets/70544459/92aa5b22-3633-488f-b182-a7c373426896" width="100" height="36" alt="Raspberry Pi" /></a>
-#### DISCLAIMER: The resume is not up to date due to curent revision from my employer
+                      
+  #### Please contact me for my resume!
